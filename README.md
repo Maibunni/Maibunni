@@ -1,16 +1,19 @@
-### Hi there 👋
+# こんにちは (Hello) 👋
 
-<!--
-**Maibunni/Maibunni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+私のGitHubプロフィールへようこそ！私はソフトウェア開発者であり、新しい技術を学び、創造的なプロジェクトを作ることに情熱を持っています。私の興味のある分野はウェブ開発、機械学習、オープンソースのプロジェクトです。
 
-Here are some ideas to get you started:
+## 私について (About Me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 現在学んでいること: ReactとNode.js
+- 💡 興味があること: AIと機械学習のプロジェクト
+- 😄 プロノウンズ: 彼/彼の
+- ⚡ おもしろい事実: 私は日本語を勉強しています！
+
+## 私のスキル (My Skills)
+
+```text
+Python       ██████████░░░░░ 90%
+JavaScript   ████████░░░░░░ 80%
+React        ███████░░░░░░░ 70%
+Node.js      ██████░░░░░░░░ 60%
+```
